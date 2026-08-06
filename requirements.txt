@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Symbolic-music / MIDI parsing
+pretty_midi
+music21
+mido
+
+# NLP-style vectorisation (notebook 01)
+nltk
+gensim
+scikit-learn
+dill
+
+# Dataset download (notebook 01)
+kaggle
+
+# Deep learning (notebook 03)
+tensorflow
